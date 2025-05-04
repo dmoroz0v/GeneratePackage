@@ -1,0 +1,8 @@
+import DDDD
+
+open class EEEEEntity82: DDDDEntity82 {
+
+    open override func foo() {
+        super.foo()
+    }
+}

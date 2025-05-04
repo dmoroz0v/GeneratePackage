@@ -1,0 +1,8 @@
+import FF
+
+open class IIEntity70: FFEntity70 {
+
+    open override func foo() {
+        super.foo()
+    }
+}
